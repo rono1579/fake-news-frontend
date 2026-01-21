@@ -106,8 +106,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Radix UI](https://www.radix-ui.com/) - Primitives for building UIs
 - [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
 
-## Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
-
 Project Link: [https://github.com/rono1579/fake-news-detector](https://github.com/rono1579/fake-news-detector)
